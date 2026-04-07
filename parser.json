@@ -1,7 +1,6 @@
 {
-  "url": "https://github.com/GordianDziwis/tree-sitter-sparql",
   "semver": false,
   "parser_version": "1ef52d35a73a2a5f2e433ecfd1c751c1360a923b",
-  "location": null,
-  "lang": "sparql"
+  "lang": "sparql",
+  "url": "https://github.com/GordianDziwis/tree-sitter-sparql"
 }
